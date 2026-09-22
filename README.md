@@ -15,9 +15,9 @@ An interactive Python command-line utility designed to capture employee metadata
 2. **Parsing Array:** Examines the structured `employee_code` layout to systematically split the corporate initials from the structural code prefix.
 3. **Card Assembly:** Packs the localized datasets into an inline template before pushing it down to the final dashboard display.
 
-##  Website
-employeeprofile-generator-6609.ai.studio
-check
+##  ##  Live Demo
+You can try out the live interactive application directly in your browser here:
+[Deploy Live App](https://employeeprofile-generator-6609.ai.studio)
 
 ```bash
 python registry.py
